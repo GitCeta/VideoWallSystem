@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="videoWall_Client.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="videoPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d:\VideoWallSystem\Video</Value>
+    </Setting>
+    <Setting Name="imagePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d:\VideoWallSystem\Image</Value>
+    </Setting>
+    <Setting Name="serverIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="map_videoPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d:\VideoWallSystem\Video</Value>
+    </Setting>
+    <Setting Name="map_imagePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d:\VideoWallSystem\Image</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
