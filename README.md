@@ -7,6 +7,8 @@ Later, I decided to go with VLC. The best option would have been to write my own
 
 If you want to continue, I'm sharing all the code for both the client and server.
 
+---------------------------------------------------------------------
+
 Video Wall Ekranlar için 8k Video ve Grafik oynatma çözümü
 
 Çok hızlı bir şekilde yazmam gereken bir projeydi. 8k videoları ve resimleri tek bir bilgisayar üstünden video wall'da uzaktan oynatmam isteniyordu. ilk olarak bir kaç çözüm denemedim mediaplayer vs. gibi çözümler, özellikle ekran geçişleri, loop gibi problemlerle karşılaştım. Kolay olduğunu düşünürken saçma sapan şeylerle uğraştım. Bu ürün çıktı. Aktif olarak kullanılıyor. İsteyenlerin işini gördüğü için daha fazla geliştirme yapmadım hatta code üstünde düzenleme iyileştirme bile yapmadım kusura bakmayın. Devam etmek isterseniz tüm kodları client & server olarak koyuyorum.
